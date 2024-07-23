@@ -1,0 +1,135 @@
+This folder: /home/daniella/Desktop/Untitled Folder 4/RAM Usage Monitoring Script (23_07_2024 16_45_16)
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 147       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919728    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:49:29.990427647 -0300
+Modify: 2024-07-23 16:49:30.015428563 -0300
+Change: 2024-07-23 16:49:30.015428563 -0300
+ Birth: 2024-07-23 16:49:29.990427647 -0300
+IPFS hash: QmbH73DWRRxWt1JCk1CeoxB9wya4dvmsgnh8979xpsiaf6
+------------------------------
+  File: ./index.html
+  Size: 230577    	Blocks: 456        IO Block: 4096   regular file
+Device: 8,70	Inode: 10919725    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:26.992403305 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.809031255 -0300
+ Birth: 2024-07-23 16:48:13.808031142 -0300
+IPFS hash: QmXEdTfT4dD2SRvLtcmV96iPm2uGQMDBUSV6Qri7Qjibrb
+------------------------------
+  File: ./.folderstamp3
+  Size: 14888     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,70	Inode: 10919739    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:20.936800138 -0300
+Modify: 2024-07-23 16:48:30.173702440 -0300
+Change: 2024-07-23 16:49:06.808369324 -0300
+ Birth: 2024-07-23 16:48:20.642769597 -0300
+IPFS hash: QmVj9rmFh5DxvBKqDHauqPXcmDbL45RUu3Y7PL5zP9ABhn
+------------------------------
+  File: ./manifest.json
+  Size: 1037      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919727    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:27.716472340 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.809031255 -0300
+ Birth: 2024-07-23 16:48:13.809031255 -0300
+IPFS hash: QmX4cmLbVHgj9rWYj6aLxitK5DuMFsmLfPqKmxi6SNDDhp
+------------------------------
+  File: ./images/2.png
+  Size: 896       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919732    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:28.889583121 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.810031368 -0300
+ Birth: 2024-07-23 16:48:13.810031368 -0300
+IPFS hash: QmbjZYST5HMLxhx8VnfaGJhbJJnpGoVsn7cDKrSYamUvfv
+------------------------------
+  File: ./images/5.jpg
+  Size: 3941      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919737    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:29.419632533 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.811031481 -0300
+ Birth: 2024-07-23 16:48:13.811031481 -0300
+IPFS hash: QmVsg5gFEFVDq3djVcWZfCTJ8pRQW79LeXXUwn48Lky2Pm
+------------------------------
+  File: ./.folderstamp2.log.html5
+  Size: 1536      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919726    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:25.911298848 -0300
+Modify: 2024-07-23 16:48:05.473046568 -0300
+Change: 2024-07-23 16:49:06.807369269 -0300
+ Birth: 2024-07-23 16:48:05.470046197 -0300
+IPFS hash: QmerZuCUVjSXSDSKEQVyvSegR7NHVpEZcR81R8SkVQ5ZSC
+------------------------------
+  File: ./stylesheet_2.css
+  Size: 204       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919730    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:29.919679024 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.809031255 -0300
+ Birth: 2024-07-23 16:48:13.809031255 -0300
+IPFS hash: QmU7RQ8hQN6jnEbPmAmgHMomc8pU7zDi97zqq8H2US4n8R
+------------------------------
+  File: ./.folderstamp1
+  Size: 8273      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,70	Inode: 10919690    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:48.671757210 -0300
+Modify: 2024-07-23 16:47:13.944510880 -0300
+Change: 2024-07-23 16:49:06.806369213 -0300
+ Birth: 2024-07-23 16:47:08.719366171 -0300
+IPFS hash: QmR53vGAemFDBFobDMUQM5kLEf7X5GGhuputVN8sa6WmJZ
+------------------------------
+  File: ./stylesheet_3.css
+  Size: 45212     	Blocks: 96         IO Block: 4096   regular file
+Device: 8,70	Inode: 10919731    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:30.156700879 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.809031255 -0300
+ Birth: 2024-07-23 16:48:13.809031255 -0300
+IPFS hash: QmZZAq2Mp5mLHxJLAgG1c2m7PnmqVRQgrkjuc77s8icL3F
+------------------------------
+  File: ./.folderstamp1.log.html5
+  Size: 1537      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919724    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:48.895790699 -0300
+Modify: 2024-07-23 16:47:31.492945446 -0300
+Change: 2024-07-23 16:49:06.807369269 -0300
+ Birth: 2024-07-23 16:47:31.489944910 -0300
+IPFS hash: QmUbkzGJuM6BQ1FXu4snoDF23uaazodiezhzBC6HA4BV9E
+------------------------------
+  File: ./.folderstamp3.log.html5
+  Size: 1535      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919741    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:54.413616191 -0300
+Modify: 2024-07-23 16:48:54.426617055 -0300
+Change: 2024-07-23 16:49:06.808369324 -0300
+ Birth: 2024-07-23 16:48:54.413616191 -0300
+IPFS hash: QmbAxnMch7b15cdPqihzvDfdvwkKn8Ebbb4buRF1Df2XfQ
+------------------------------
+  File: ./.folderstamp2
+  Size: 9220      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,70	Inode: 10919723    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:26.577363245 -0300
+Modify: 2024-07-23 16:47:48.914793540 -0300
+Change: 2024-07-23 16:49:06.807369269 -0300
+ Birth: 2024-07-23 16:47:43.740001548 -0300
+IPFS hash: QmcgFiqYHv3D1yckLs53BiUNFUspXGQ46db6BHKLuH1yG2
+------------------------------

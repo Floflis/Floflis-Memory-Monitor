@@ -1,0 +1,305 @@
+This folder: /home/daniella/Desktop/Untitled Folder 4
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 97        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919739    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:20.642769597 -0300
+Modify: 2024-07-23 16:48:20.667772194 -0300
+Change: 2024-07-23 16:48:20.667772194 -0300
+ Birth: 2024-07-23 16:48:20.642769597 -0300
+IPFS hash: QmSdLbrTgvpQiRynhg3hFDrhZZU1epZkRUNhCaSRnCKYqW
+------------------------------
+  File: ./install.sh
+  Size: 1095      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919721    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:44:26.381233151 -0300
+Modify: 2024-07-23 16:38:38.912861854 -0300
+Change: 2024-07-23 16:38:38.916861338 -0300
+ Birth: 2024-07-23 16:38:38.896863920 -0300
+IPFS hash: QmSXC7RJeBY5yQCUxSSoLoKcWP3poV3BE6eNcjrsDFP4xg
+------------------------------
+  File: ./rmv-after-commit/action-1.sh
+  Size: 352       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919705    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:09.965644715 -0300
+Modify: 2024-07-23 13:29:51.008718018 -0300
+Change: 2024-07-23 13:35:13.232534886 -0300
+ Birth: 2024-07-23 13:29:51.007718017 -0300
+IPFS hash: QmWcpR86yXvtBjvV8LiJAnkpq1ACGQZdeAF1vgPr81mtGc
+------------------------------
+  File: ./rmv-after-commit/action-0.sh
+  Size: 179       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919703    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:10.424746174 -0300
+Modify: 2024-07-23 13:24:09.354083036 -0300
+Change: 2024-07-23 13:35:13.232534886 -0300
+ Birth: 2024-07-23 13:24:09.353083041 -0300
+IPFS hash: QmWhm75NzU65TzJXh9wPihDiHyGQ6ufWtGbLYBqpVQDbAa
+------------------------------
+  File: ./rmv-after-commit/memory_monitor-0.sh
+  Size: 653       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919706    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:10.850840266 -0300
+Modify: 2024-07-23 13:07:03.297739342 -0300
+Change: 2024-07-23 13:26:29.486482666 -0300
+ Birth: 2024-07-23 13:07:03.294739385 -0300
+IPFS hash: QmQEb3RnkwhiBeqWpVwruMXQ2ZqbUj59qh8HSFN4M3AyBK
+------------------------------
+  File: ./rmv-after-commit/install-0.sh
+  Size: 996       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919710    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:11.038881709 -0300
+Modify: 2024-07-23 13:26:00.756418208 -0300
+Change: 2024-07-23 16:38:44.973082425 -0300
+ Birth: 2024-07-23 13:26:00.744418179 -0300
+IPFS hash: QmXnK36bpTAEVyjcquxfrZAAN7RsB5ig3nh3zYzwz8eQTc
+------------------------------
+  File: ./rmv-after-commit/config-0.sh
+  Size: 132       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919697    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:11.252928513 -0300
+Modify: 2024-07-23 13:23:48.550197104 -0300
+Change: 2024-07-23 16:35:31.161852524 -0300
+ Birth: 2024-07-23 13:23:48.550197104 -0300
+IPFS hash: QmaPfUXThzjL8aHJu9jSeAr6cjQKMfbFX5kGdTEUasPxkS
+------------------------------
+  File: ./rmv-after-commit/flomem-0
+  Size: 1648      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919711    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:11.500982753 -0300
+Modify: 2024-07-23 13:25:08.047275943 -0300
+Change: 2024-07-23 16:37:45.304020099 -0300
+ Birth: 2024-07-23 13:25:08.045275937 -0300
+IPFS hash: QmcZsmxMkjqaqYYdBVDfLHfGDHybTPVKBEcKCR7TR1Xv5d
+------------------------------
+  File: ./rmv-after-commit/memory_monitor.sh
+  Size: 756       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919707    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:11.748036774 -0300
+Modify: 2024-07-23 13:14:25.034955871 -0300
+Change: 2024-07-23 13:26:29.485482664 -0300
+ Birth: 2024-07-23 13:14:25.031955896 -0300
+IPFS hash: QmWAKH9vkWCw4a3yD2FvChpseeB5D5Ndub7snsdP4TgAY1
+------------------------------
+  File: ./rmv-after-commit/action.sh
+  Size: 499       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919701    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:11.966084453 -0300
+Modify: 2024-07-23 13:35:42.910494107 -0300
+Change: 2024-07-23 16:36:31.457219656 -0300
+ Birth: 2024-07-23 13:35:42.909494108 -0300
+IPFS hash: Qmb1FgZp5x7z48CA8yBhVwf9fcXP8pAecitMKxzyhCxh4x
+------------------------------
+  File: ./rmv-after-commit/README-0.md
+  Size: 2502      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919708    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:12.247145380 -0300
+Modify: 2024-07-23 13:33:38.242642291 -0300
+Change: 2024-07-23 16:39:30.646355744 -0300
+ Birth: 2024-07-23 13:33:38.227642305 -0300
+IPFS hash: QmNv11f9gK5F5VHZZMsQ9uRGh2tpXir1cSawAWmdoQQmCK
+------------------------------
+  File: ./README.md
+  Size: 3333      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919722    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:12.889284414 -0300
+Modify: 2024-07-23 16:44:20.640875157 -0300
+Change: 2024-07-23 16:44:20.647874374 -0300
+ Birth: 2024-07-23 16:44:20.637875493 -0300
+IPFS hash: QmUSnLUFhRCGUBwLci4EWLLxuAKAPHhfjR3kvJkKWVci1y
+------------------------------
+  File: ./flomem
+  Size: 1821      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919713    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:13.137337832 -0300
+Modify: 2024-07-23 16:38:04.756362015 -0300
+Change: 2024-07-23 16:38:04.763361072 -0300
+ Birth: 2024-07-23 16:38:04.754362284 -0300
+IPFS hash: QmSmfo5jU5A2NaVUhMXHVmwecsRAequprQCENY4g63juoL
+------------------------------
+  File: ./config.sh
+  Size: 188       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919696    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:13.360385651 -0300
+Modify: 2024-07-23 16:36:21.088354446 -0300
+Change: 2024-07-23 16:36:21.094353789 -0300
+ Birth: 2024-07-23 16:36:21.088354446 -0300
+IPFS hash: QmSQFkvx4LhkowpwBuQReL85yidJjGheWxHtsjeQEUge8n
+------------------------------
+  File: ./action.89.sh
+  Size: 422       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919702    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:13.627442905 -0300
+Modify: 2024-07-23 16:36:58.833232818 -0300
+Change: 2024-07-23 16:36:58.839232164 -0300
+ Birth: 2024-07-23 16:36:58.832232927 -0300
+IPFS hash: QmRve6pEHBtaVJtG5jtLYzz88Y7ErtPdpz2dx67rt66FpY
+------------------------------
+  File: ./action.95.sh
+  Size: 386       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919709    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:13.916504876 -0300
+Modify: 2024-07-23 16:37:27.113159240 -0300
+Change: 2024-07-23 16:37:27.120158481 -0300
+ Birth: 2024-07-23 16:37:27.112159348 -0300
+IPFS hash: QmX8CjJCpQFjmxACdM1a8agNCNHRk7pxHtXenYDUdmSKZZ
+------------------------------
+  File: ./.folderstamp2.log.html5
+  Size: 1536      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919726    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:48:05.470046197 -0300
+Modify: 2024-07-23 16:48:05.473046568 -0300
+Change: 2024-07-23 16:48:11.465763955 -0300
+ Birth: 2024-07-23 16:48:05.470046197 -0300
+IPFS hash: QmerZuCUVjSXSDSKEQVyvSegR7NHVpEZcR81R8SkVQ5ZSC
+------------------------------
+  File: ./.folderstamp1
+  Size: 8273      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,70	Inode: 10919690    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:48.671757210 -0300
+Modify: 2024-07-23 16:47:13.944510880 -0300
+Change: 2024-07-23 16:47:18.883539614 -0300
+ Birth: 2024-07-23 16:47:08.719366171 -0300
+IPFS hash: QmR53vGAemFDBFobDMUQM5kLEf7X5GGhuputVN8sa6WmJZ
+------------------------------
+  File: ./.folderstamp1.log.html5
+  Size: 1537      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919724    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:48.895790699 -0300
+Modify: 2024-07-23 16:47:31.492945446 -0300
+Change: 2024-07-23 16:47:35.839705571 -0300
+ Birth: 2024-07-23 16:47:31.489944910 -0300
+IPFS hash: QmUbkzGJuM6BQ1FXu4snoDF23uaazodiezhzBC6HA4BV9E
+------------------------------
+  File: ./.folderstamp2
+  Size: 9220      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,70	Inode: 10919723    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:44.053050828 -0300
+Modify: 2024-07-23 16:47:48.914793540 -0300
+Change: 2024-07-23 16:47:53.317433227 -0300
+ Birth: 2024-07-23 16:47:43.740001548 -0300
+IPFS hash: QmcgFiqYHv3D1yckLs53BiUNFUspXGQ46db6BHKLuH1yG2
+------------------------------
+  File: ./RAM Usage Monitoring Script (23_07_2024 16_45_16)/index.html
+  Size: 230577    	Blocks: 456        IO Block: 4096   regular file
+Device: 8,70	Inode: 10919725    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:45:18.172000000 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.809031255 -0300
+ Birth: 2024-07-23 16:48:13.808031142 -0300
+IPFS hash: QmXEdTfT4dD2SRvLtcmV96iPm2uGQMDBUSV6Qri7Qjibrb
+------------------------------
+  File: ./RAM Usage Monitoring Script (23_07_2024 16_45_16)/manifest.json
+  Size: 1037      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919727    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:45:18.172000000 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.809031255 -0300
+ Birth: 2024-07-23 16:48:13.809031255 -0300
+IPFS hash: QmX4cmLbVHgj9rWYj6aLxitK5DuMFsmLfPqKmxi6SNDDhp
+------------------------------
+  File: ./RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_1.css
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,70	Inode: 10919729    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:45:18.172000000 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.809031255 -0300
+ Birth: 2024-07-23 16:48:13.809031255 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_0.css
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,70	Inode: 10919728    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:45:18.172000000 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.809031255 -0300
+ Birth: 2024-07-23 16:48:13.809031255 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/2.png
+  Size: 896       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919732    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:45:18.172000000 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.810031368 -0300
+ Birth: 2024-07-23 16:48:13.810031368 -0300
+IPFS hash: QmbjZYST5HMLxhx8VnfaGJhbJJnpGoVsn7cDKrSYamUvfv
+------------------------------
+  File: ./RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/4.png
+  Size: 117143    	Blocks: 232        IO Block: 4096   regular file
+Device: 8,70	Inode: 10919733    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:45:18.172000000 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.810031368 -0300
+ Birth: 2024-07-23 16:48:13.810031368 -0300
+IPFS hash: QmQ8REUh5dsNTeSmk1og4nkj7yj9A6KUnaMUzqAdwh7pKS
+------------------------------
+  File: ./RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/5.jpg
+  Size: 3941      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919737    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:45:18.172000000 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.811031481 -0300
+ Birth: 2024-07-23 16:48:13.811031481 -0300
+IPFS hash: QmVsg5gFEFVDq3djVcWZfCTJ8pRQW79LeXXUwn48Lky2Pm
+------------------------------
+  File: ./RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/3.png
+  Size: 531771    	Blocks: 1040       IO Block: 4096   regular file
+Device: 8,70	Inode: 10919736    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:45:18.172000000 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.811031481 -0300
+ Birth: 2024-07-23 16:48:13.810031368 -0300
+IPFS hash: QmYBDgDD9AKVduM64fBLb9jW6Y6yFVfEaxs4z5AsvW2ksk
+------------------------------
+  File: ./RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_2.css
+  Size: 204       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919730    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:45:18.172000000 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.809031255 -0300
+ Birth: 2024-07-23 16:48:13.809031255 -0300
+IPFS hash: QmU7RQ8hQN6jnEbPmAmgHMomc8pU7zDi97zqq8H2US4n8R
+------------------------------
+  File: ./RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_3.css
+  Size: 45212     	Blocks: 96         IO Block: 4096   regular file
+Device: 8,70	Inode: 10919731    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:45:18.172000000 -0300
+Modify: 2024-07-23 16:45:18.172000000 -0300
+Change: 2024-07-23 16:48:13.809031255 -0300
+ Birth: 2024-07-23 16:48:13.809031255 -0300
+IPFS hash: QmZZAq2Mp5mLHxJLAgG1c2m7PnmqVRQgrkjuc77s8icL3F
+------------------------------
