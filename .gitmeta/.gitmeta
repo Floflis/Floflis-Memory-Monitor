@@ -1,12 +1,12 @@
-commit QmZmPMNGYBAbZwUCQedoi61BDy2bYosBE3GA442FTAtiER
-Branch: HEAD
+commit QmU5HTJnxyTuh1wKBS1KBhTShutk37e6fbecnc5qTw7h1S
+Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: cc4e48b0fbb641bf0dc3b80c0a2d8d4a7887ccb9a65844da74470c34fccecbd2393e9cf6c6e9f93a42335be1ef198ee08baf57026c8f9fe71c5736a18120711400
+Signature: 839241cbf323d38bcf6d4490ccb584fe7aad565710645e3091d9e3a7b736ce3b1c646188a2f4e367914c9a33978a3c3ce589d3d12be6431f66d5b74d79cdaf1800
 
 ------------------------------
 
-Commit CID if including git's SHA1: Qmdpf8nEPXL15hqioRs1afx3Y7NKXmv1gDL5BE66FcXD4B
-Commit CID if containing only file hashes: QmPuoYb2bdnxa8BQjeVX7dLF7SwyAzDTmdU45ya9GB1v13
+Commit CID if including git's SHA1: QmV4xG1WEd4G6EzwU95AjAr8CzCfaYzQeBKjTuHrnknYBd
+Commit CID if containing only file hashes: 
 
 ------------------------------
 
@@ -17,63 +17,3 @@ Remote URL:
 
 ------------------------------
 
-chown -h 1000:1000 '.gitattributes'
-chmod 0660 '.gitattributes'
-/usr/bin/touch -hcmd "2024-07-23 16:50:31.8155057030 -0300" '.gitattributes'
-/usr/bin/touch -hcad "2024-07-23 16:50:43.4164887120 -0300" '.gitattributes'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp1'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp1'
-/usr/bin/touch -hcmd "2024-07-23 16:47:13.9445108800 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp1'
-/usr/bin/touch -hcad "2024-07-23 16:49:33.1205389120 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp1'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp1.log.html5'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp1.log.html5'
-/usr/bin/touch -hcmd "2024-07-23 16:47:31.4929454460 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp1.log.html5'
-/usr/bin/touch -hcad "2024-07-23 16:49:33.7645609160 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp1.log.html5'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp2'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp2'
-/usr/bin/touch -hcmd "2024-07-23 16:47:48.9147935400 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp2'
-/usr/bin/touch -hcad "2024-07-23 16:49:34.3005790200 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp2'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp2.log.html5'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp2.log.html5'
-/usr/bin/touch -hcmd "2024-07-23 16:48:05.4730465680 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp2.log.html5'
-/usr/bin/touch -hcad "2024-07-23 16:49:32.5205180690 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp2.log.html5'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp3'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp3'
-/usr/bin/touch -hcmd "2024-07-23 16:48:30.1737024400 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp3'
-/usr/bin/touch -hcad "2024-07-23 16:49:31.1394692830 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp3'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp3.log.html5'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp3.log.html5'
-/usr/bin/touch -hcmd "2024-07-23 16:48:54.4266170550 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp3.log.html5'
-/usr/bin/touch -hcad "2024-07-23 16:49:33.9635677160 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp3.log.html5'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp4'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp4'
-/usr/bin/touch -hcmd "2024-07-23 16:49:34.3265798900 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp4'
-/usr/bin/touch -hcad "2024-07-23 16:50:49.2704589420 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp4'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp4.log.html5'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp4.log.html5'
-/usr/bin/touch -hcmd "2024-07-23 16:49:54.2671168820 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp4.log.html5'
-/usr/bin/touch -hcad "2024-07-23 16:50:49.2714589350 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/.folderstamp4.log.html5'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/2.png'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/2.png'
-/usr/bin/touch -hcmd "2024-07-23 16:45:18.1720000000 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/2.png'
-/usr/bin/touch -hcad "2024-07-23 16:48:28.8895831210 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/2.png'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/5.jpg'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/5.jpg'
-/usr/bin/touch -hcmd "2024-07-23 16:45:18.1720000000 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/5.jpg'
-/usr/bin/touch -hcad "2024-07-23 16:48:29.4196325330 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/images/5.jpg'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/index.html'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/index.html'
-/usr/bin/touch -hcmd "2024-07-23 16:45:18.1720000000 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/index.html'
-/usr/bin/touch -hcad "2024-07-23 16:48:26.9924033050 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/index.html'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/manifest.json'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/manifest.json'
-/usr/bin/touch -hcmd "2024-07-23 16:45:18.1720000000 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/manifest.json'
-/usr/bin/touch -hcad "2024-07-23 16:48:27.7164723400 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/manifest.json'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_2.css'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_2.css'
-/usr/bin/touch -hcmd "2024-07-23 16:45:18.1720000000 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_2.css'
-/usr/bin/touch -hcad "2024-07-23 16:48:29.9196790240 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_2.css'
-chown -h 1000:1000 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_3.css'
-chmod 0664 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_3.css'
-/usr/bin/touch -hcmd "2024-07-23 16:45:18.1720000000 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_3.css'
-/usr/bin/touch -hcad "2024-07-23 16:48:30.1567008790 -0300" 'RAM Usage Monitoring Script (23_07_2024 16_45_16)/stylesheet_3.css'
