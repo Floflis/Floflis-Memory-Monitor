@@ -1,0 +1,3 @@
+- interactive mode (get inspired by floflis_firstlogon CLI)
+- run the RAM check every 3 seconds, but not the console logging: console logging every 5 minutes (and run 'clear' every 2 hours) BUT ONLY ON INTERACTIVE MODE (don't run on non-interactive mode)
+- console logging: add separator
