@@ -1,31 +1,23 @@
-commit QmRy1Wg33fS2MZ6cLDrJBprf3oXTEoDsnWESBowksSihJH
+commit QmaPQgPbY5UDq7DtxFudAjdx4YQCVAgy7sDxJfN7LHX777
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 0a9d88dcca7bf56830463a2553030afc47c916927a2ac7d82d7c27d00506767c3e5556e13dc739d061981b71df18d03881c39d0a26c739840445da5cbc26657c00
+Signature: 2bba3cadb74dcee71d465f444526a35ac93e8931517e8e2694f7b4f01679052f0b651c883233a0ebe2f2c3eae4d1caf4a3f4bed0dd1d35d82b2a80fd20dfc02200
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmceupJkWEBX67AnRTycv37fSfDyt4ydk4yWv2StpNQ8hg
-Commit CID if containing only file hashes: QmT9ghiRkF2WZoWzeKqb89fSk2knwaxqXZZFNM56HCShLj
+Commit CID if including git's SHA1: QmTqnpJTrb9W5B21ADeqr2s9cz3YX2F4tDugrjGjjSohgt
+Commit CID if containing only file hashes: QmVJAizwpqWE15HXi1RPGAd5Q5GRqoSLQABd7D7fU1NUY3
 
 ------------------------------
 
 .gitmeta version: r8
-Local folder: /home/daniella/Desktop/Untitled Folder 4
-Remote Name: 
-Remote URL: 
+Local folder: /media/daniella/B/git/Floflis/Floflis/Utilities/Core/Floflis-Memory-Monitor
+Remote Name: origin
+Remote URL: https://github.com/Floflis/Floflis-Memory-Monitor.git
 
 ------------------------------
 
-chown -h 1000:1000 'Tasks.txt'
-chmod 0664 'Tasks.txt'
-/usr/bin/touch -hcmd "2024-07-23 17:13:01.8940478060 -0300" 'Tasks.txt'
-/usr/bin/touch -hcad "2024-07-23 17:13:45.6459299610 -0300" 'Tasks.txt'
-chown -h 1000:1000 'action.95.sh'
-chmod 0664 'action.95.sh'
-/usr/bin/touch -hcmd "2024-07-23 17:09:21.8217523010 -0300" 'action.95.sh'
-/usr/bin/touch -hcad "2024-07-23 17:13:06.5053986380 -0300" 'action.95.sh'
-chown -h 1000:1000 'install.sh'
-chmod 0664 'install.sh'
-/usr/bin/touch -hcmd "2024-07-23 17:06:15.0121853240 -0300" 'install.sh'
-/usr/bin/touch -hcad "2024-07-23 17:06:22.8746802330 -0300" 'install.sh'
+chown -h 1000:1000 'AIConversation.md'
+chmod 0664 'AIConversation.md'
+/usr/bin/touch -hcmd "2024-07-24 20:40:59.2474968000 -0300" 'AIConversation.md'
+/usr/bin/touch -hcad "2024-07-24 20:42:39.1499772000 -0300" 'AIConversation.md'
