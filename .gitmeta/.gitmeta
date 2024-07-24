@@ -1,12 +1,12 @@
-commit QmaPQgPbY5UDq7DtxFudAjdx4YQCVAgy7sDxJfN7LHX777
+commit QmVTVjzcJ6kyeMayGVsGb8rz1GfV7jLqjFimTMqr6JDM58
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 2bba3cadb74dcee71d465f444526a35ac93e8931517e8e2694f7b4f01679052f0b651c883233a0ebe2f2c3eae4d1caf4a3f4bed0dd1d35d82b2a80fd20dfc02200
+Signature: 3ba85c985e920c47f41fa7425999cb2b0d398737f7fd00f87d78ef397e47d8a2123f7bb87f154b64d8a545f2665960e9e951bae84bb891c4c9f8d5dc039d807100
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmTqnpJTrb9W5B21ADeqr2s9cz3YX2F4tDugrjGjjSohgt
-Commit CID if containing only file hashes: QmVJAizwpqWE15HXi1RPGAd5Q5GRqoSLQABd7D7fU1NUY3
+Commit CID if including git's SHA1: Qmeregi5TsqBGoF53qbgxJfYZsqVq7zFNBt4nDsVBUSmqy
+Commit CID if containing only file hashes: QmRGZ6DG3DAYGtGTrZCKqJzbECje4GZE4XaEPb9kb5qrgo
 
 ------------------------------
 
@@ -17,7 +17,15 @@ Remote URL: https://github.com/Floflis/Floflis-Memory-Monitor.git
 
 ------------------------------
 
-chown -h 1000:1000 'AIConversation.md'
-chmod 0664 'AIConversation.md'
-/usr/bin/touch -hcmd "2024-07-24 20:40:59.2474968000 -0300" 'AIConversation.md'
-/usr/bin/touch -hcad "2024-07-24 20:42:39.1499772000 -0300" 'AIConversation.md'
+chown -h 1000:1000 'action.89.sh'
+chmod 0664 'action.89.sh'
+/usr/bin/touch -hcmd "2024-07-24 20:40:35.3702994000 -0300" 'action.89.sh'
+/usr/bin/touch -hcad "2024-07-24 20:40:35.7193104000 -0300" 'action.89.sh'
+chown -h 1000:1000 'action.95.sh'
+chmod 0664 'action.95.sh'
+/usr/bin/touch -hcmd "2024-07-24 20:40:37.6673762000 -0300" 'action.95.sh'
+/usr/bin/touch -hcad "2024-07-24 20:40:37.7253782000 -0300" 'action.95.sh'
+chown -h 1000:1000 'install.sh'
+chmod 0664 'install.sh'
+/usr/bin/touch -hcmd "2024-07-24 20:36:17.4289256000 -0300" 'install.sh'
+/usr/bin/touch -hcad "2024-07-24 20:36:17.4739376000 -0300" 'install.sh'

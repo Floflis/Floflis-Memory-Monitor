@@ -33,17 +33,25 @@ create_monitor_script() {
     sudo chmod +x "/usr/lib/$SCRIPT_NAME"
 }
 
-# Function to set up the cronjob
-setup_cronjob() {
-    crontab -e #thanks to https://unix.stackexchange.com/a/212705 - HAS TO UPVOTE
-    (crontab -l ; echo "@reboot /usr/lib/$SCRIPT_NAME") | crontab -
+# Function to create a desktop entry for autostart
+create_desktop_entry() {
+    mkdir -p "$HOME/.config/autostart"
+    cat > "$HOME/.config/autostart/flomem.desktop" << EOF
+[Desktop Entry]
+Type=Application
+Name=Floflis Memory Monitor
+Exec=/usr/lib/$SCRIPT_NAME
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+EOF
+    chmod +x "$HOME/.config/autostart/flomem.desktop"
 }
 
 create_config
 create_action_scripts
 create_monitor_script
-setup_cronjob
+create_desktop_entry
 drop_sudo
 
 echo "It seems that Floflis Memory Monitor has been installed successfully!"
-
