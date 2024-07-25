@@ -1,0 +1,77 @@
+This folder: /home/daniella/Desktop/Floflis-Memory-Monitor
+
+folderstamp version: r5
+Method: Non-recursive
+Current Git Branch: main
+First Git Remote: origin - URL: https://github.com/Floflis/Floflis-Memory-Monitor.git
+
+  File: ./action.89.sh
+  Size: 422       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919702    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:13.627442905 -0300
+Modify: 2024-07-23 16:36:58.833232818 -0300
+Change: 2024-07-23 16:36:58.839232164 -0300
+ Birth: 2024-07-23 16:36:58.832232927 -0300
+IPFS hash: QmRve6pEHBtaVJtG5jtLYzz88Y7ErtPdpz2dx67rt66FpY
+------------------------------
+  File: ./action.95.sh
+  Size: 413       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919701    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 17:13:06.505398638 -0300
+Modify: 2024-07-23 17:09:21.821752301 -0300
+Change: 2024-07-23 17:09:21.827751348 -0300
+ Birth: 2024-07-23 17:09:21.820752460 -0300
+IPFS hash: QmVemnPpaWnjyaejutS2P8Larp9NFWaj77SzGFab4KotSQ
+------------------------------
+  File: ./config.sh
+  Size: 188       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919696    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:13.360385651 -0300
+Modify: 2024-07-23 16:36:21.088354446 -0300
+Change: 2024-07-23 16:36:21.094353789 -0300
+ Birth: 2024-07-23 16:36:21.088354446 -0300
+IPFS hash: QmSQFkvx4LhkowpwBuQReL85yidJjGheWxHtsjeQEUge8n
+------------------------------
+  File: ./flomem
+  Size: 1821      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919713    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:13.137337832 -0300
+Modify: 2024-07-23 16:38:04.756362015 -0300
+Change: 2024-07-23 16:38:04.763361072 -0300
+ Birth: 2024-07-23 16:38:04.754362284 -0300
+IPFS hash: QmSmfo5jU5A2NaVUhMXHVmwecsRAequprQCENY4g63juoL
+------------------------------
+  File: ./install.sh
+  Size: 1235      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919706    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 17:06:22.874680233 -0300
+Modify: 2024-07-23 17:06:15.012185324 -0300
+Change: 2024-07-23 17:06:15.019183979 -0300
+ Birth: 2024-07-23 17:06:15.011185517 -0300
+IPFS hash: QmT5JYgXm2xv5keNUMYxkMR3c7ksQSgQW13rkcmAmcK3PY
+------------------------------
+  File: ./README.md
+  Size: 3333      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919722    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 16:47:12.889284414 -0300
+Modify: 2024-07-23 16:44:20.640875157 -0300
+Change: 2024-07-23 16:44:20.647874374 -0300
+ Birth: 2024-07-23 16:44:20.637875493 -0300
+IPFS hash: QmUSnLUFhRCGUBwLci4EWLLxuAKAPHhfjR3kvJkKWVci1y
+------------------------------
+  File: ./Tasks.txt
+  Size: 288       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,70	Inode: 10919840    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-23 17:13:45.645929961 -0300
+Modify: 2024-07-23 17:13:01.894047806 -0300
+Change: 2024-07-23 17:13:01.913045129 -0300
+ Birth: 2024-07-23 17:13:01.894047806 -0300
+IPFS hash: QmTmHdXCA4LLWBuyt3MWfRpPqyCBZVkWg3KiD9mfXrK9uS
+------------------------------

@@ -1,12 +1,12 @@
-commit QmVTVjzcJ6kyeMayGVsGb8rz1GfV7jLqjFimTMqr6JDM58
+commit QmVAixEHArWuY287EZ362R1b6nfmY1UwQQiM5GVTqbHu7s
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 3ba85c985e920c47f41fa7425999cb2b0d398737f7fd00f87d78ef397e47d8a2123f7bb87f154b64d8a545f2665960e9e951bae84bb891c4c9f8d5dc039d807100
+Signature: d9d8d1443099d17f2e428160503c5e643cf07cebd54f1482909ee371c65eeaa556e431497d8824fe514cfc9a158ced69acb8b352d30d90cf84ea032b7464f77a00
 
 ------------------------------
 
-Commit CID if including git's SHA1: Qmeregi5TsqBGoF53qbgxJfYZsqVq7zFNBt4nDsVBUSmqy
-Commit CID if containing only file hashes: QmRGZ6DG3DAYGtGTrZCKqJzbECje4GZE4XaEPb9kb5qrgo
+Commit CID if including git's SHA1: 
+Commit CID if containing only file hashes: 
 
 ------------------------------
 
@@ -17,15 +17,27 @@ Remote URL: https://github.com/Floflis/Floflis-Memory-Monitor.git
 
 ------------------------------
 
-chown -h 1000:1000 'action.89.sh'
-chmod 0664 'action.89.sh'
-/usr/bin/touch -hcmd "2024-07-24 20:40:35.3702994000 -0300" 'action.89.sh'
-/usr/bin/touch -hcad "2024-07-24 20:40:35.7193104000 -0300" 'action.89.sh'
-chown -h 1000:1000 'action.95.sh'
-chmod 0664 'action.95.sh'
-/usr/bin/touch -hcmd "2024-07-24 20:40:37.6673762000 -0300" 'action.95.sh'
-/usr/bin/touch -hcad "2024-07-24 20:40:37.7253782000 -0300" 'action.95.sh'
-chown -h 1000:1000 'install.sh'
-chmod 0664 'install.sh'
-/usr/bin/touch -hcmd "2024-07-24 20:36:17.4289256000 -0300" 'install.sh'
-/usr/bin/touch -hcad "2024-07-24 20:36:17.4739376000 -0300" 'install.sh'
+chown -h 1000:1000 '.folderstamp1'
+chmod 0664 '.folderstamp1'
+/usr/bin/touch -hcmd "2024-07-23 17:23:13.2044328000 -0300" '.folderstamp1'
+/usr/bin/touch -hcad "2024-07-24 20:34:42.0374640000 -0300" '.folderstamp1'
+chown -h 1000:1000 '.folderstamp1.log.html5'
+chmod 0664 '.folderstamp1.log.html5'
+/usr/bin/touch -hcmd "2024-07-23 17:23:53.7255227000 -0300" '.folderstamp1.log.html5'
+/usr/bin/touch -hcad "2024-07-24 20:34:42.0384659000 -0300" '.folderstamp1.log.html5'
+chown -h 1000:1000 '.folderstamp2'
+chmod 0664 '.folderstamp2'
+/usr/bin/touch -hcmd "2024-07-23 17:24:05.0232070000 -0300" '.folderstamp2'
+/usr/bin/touch -hcad "2024-07-24 20:34:42.0384659000 -0300" '.folderstamp2'
+chown -h 1000:1000 '.folderstamp2.log.html5'
+chmod 0664 '.folderstamp2.log.html5'
+/usr/bin/touch -hcmd "2024-07-23 17:24:24.4492188000 -0300" '.folderstamp2.log.html5'
+/usr/bin/touch -hcad "2024-07-24 20:34:42.0394678000 -0300" '.folderstamp2.log.html5'
+chown -h 1000:1000 '.folderstamp3'
+chmod 0664 '.folderstamp3'
+/usr/bin/touch -hcmd "2024-07-23 17:28:14.6646679000 -0300" '.folderstamp3'
+/usr/bin/touch -hcad "2024-07-24 20:34:42.0394678000 -0300" '.folderstamp3'
+chown -h 1000:1000 '.folderstamp3.log.html5'
+chmod 0664 '.folderstamp3.log.html5'
+/usr/bin/touch -hcmd "2024-07-23 17:28:33.7320314000 -0300" '.folderstamp3.log.html5'
+/usr/bin/touch -hcad "2024-07-24 20:34:42.0394678000 -0300" '.folderstamp3.log.html5'
